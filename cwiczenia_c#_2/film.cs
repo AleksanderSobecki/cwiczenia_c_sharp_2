@@ -18,7 +18,7 @@ namespace cwiczenia_c__2
         //   wypiszLiczbeWypozyczen, int liczbyWypozyczen - zwraca wartość pola LiczbaWypozyczen
         //   wypozycz, nic nie zwraca - zwiększa wartośc pola LiczbaWypozyczen o 1
         // informacje: Klasa opisuje film posiadający tytuł, który może być wypożyczony.
-        // autor: 0000
+        // autor: 00000
         //*****************************************************
 
         protected string tytul;
