@@ -1,4 +1,5 @@
 Super aplikacja konsolowa w C#
+
 Założenia klasy:
 ‒ Obiektowy język programowania zgodny z zainstalowanym na stanowisku egzaminacyjnym, jeden z:
 C++, C#, Java, Python.
